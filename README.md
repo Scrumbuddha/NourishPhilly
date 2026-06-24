@@ -1,9 +1,9 @@
-# NourishStPete (MVP)
+# NourishPhilly (MVP)
 
-Web app that helps people in St. Petersburg find healthy food nearby and
+Web app that helps people in Philly find healthy food nearby and
 discover low-cost healthy alternatives to what they already buy.
 
-Full product design: [`docs/design/nourish-stpete-app-design.md`](docs/design/nourish-stpete-app-design.md)
+Full product design: [`docs/design/nourish-philly-app-design.md`](docs/design/nourish-philly-app-design.md)
 
 ## Features (Phase 1)
 
@@ -26,7 +26,7 @@ npm run build  # production build
 
 All data currently lives in `lib/data/` as TypeScript seed files:
 
-- `places.ts` — St. Pete pilot listings (illustrative; verify before launch)
+- `places.ts` — Philly pilot listings (illustrative; verify before launch)
 - `foods.ts` — food items + swap pairs (prices are surveyed band midpoints)
 - `recipes.ts` — budget recipes
 
